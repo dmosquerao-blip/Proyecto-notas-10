@@ -113,5 +113,5 @@ python Main.py
 
 ## Tipo de proyecto
 
-Este trabajo corresponde principalmente a un problema de estimación, ya que busca analizar y modelar una variable cuantitativa continua (el promedio académico de los estudiantes) a partir de variables explicativas asociadas a la especialidad técnica cursada.
+Este trabajo corresponde principalmente a un problema de inferencia estadística orientado a la detección de diferencias entre grupos. En particular, se busca analizar si existen diferencias significativas en el promedio académico de los estudiantes según la especialidad técnica cursada, utilizando pruebas de hipótesis sobre variables cuantitativas continuas.
 

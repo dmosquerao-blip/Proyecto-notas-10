@@ -136,5 +136,5 @@ Esta base será utilizada para:
 3. Comparación de grupos académicos.
 4. Prueba ANOVA.
 5. Prueba Kruskal-Wallis.
-6. Modelos de estimación mediante regresión lineal.
+
 

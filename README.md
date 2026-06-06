@@ -65,6 +65,7 @@ La base contiene:
 
 ### 4. Análisis inferencial
 
+* Prueba ANOVA
 * Verificación de supuestos estadísticos.
 * Comparación de grupos mediante pruebas no paramétricas (Kruskal-Wallis).
 

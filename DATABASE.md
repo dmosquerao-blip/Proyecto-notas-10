@@ -132,9 +132,8 @@ La base de datos presenta:
 Esta base será utilizada para:
 
 1. Análisis descriptivo.
-2. Visualización de distribuciones.
-3. Comparación de grupos académicos.
-4. Prueba ANOVA.
-5. Prueba Kruskal-Wallis.
+2. Comparación de grupos académicos.
+3. Prueba ANOVA.
+4. Prueba Kruskal-Wallis.
 
 

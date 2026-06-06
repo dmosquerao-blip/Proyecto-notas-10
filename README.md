@@ -88,6 +88,7 @@ Trabajo final fundamentos ciencias de datos/
 ├── Main.py
 ├── Notas 10.xlsx
 ├── README.md
+├── Proyecto_Notas_10.ipynb
 ├── DATABASE.md
 ├── WORKFLOWS.md
 ├── requirements.txt
